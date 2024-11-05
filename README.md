@@ -7,12 +7,12 @@ Awesome public datasets that we have found in the course of our work.
 
 ## Healthcare
 ### Centers for Medicare & Medicaid Services (CMS)
-[Open Payments](https://openpaymentsdata.cms.gov/)
-[Cost Reports](https://www.cms.gov/data-research/statistics-trends-and-reports/cost-reports)
+* [Open Payments](https://openpaymentsdata.cms.gov/)
+* [Cost Reports](https://www.cms.gov/data-research/statistics-trends-and-reports/cost-reports)
 
 ### FDA
-[FDA Adverse Event Reporting System (FAERS)](https://www.cms.gov/data-research/statistics-trends-and-reports/cost-reports)
-[Manufacturer and User Facility Device Experience (MAUDE)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/search.cfm)
+* [FDA Adverse Event Reporting System (FAERS)](https://www.cms.gov/data-research/statistics-trends-and-reports/cost-reports)
+* [Manufacturer and User Facility Device Experience (MAUDE)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/search.cfm)
 ### [DEA ARCOS](https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/arcos-drug-summary-reports.html)
 ### [NYS SPARCS](https://health.data.ny.gov/Health/NYC-SPARCS/p789-b5dv/about_data)
 ### [HCUP/SID](https://hcup-us.ahrq.gov/reports/trendtables/summarytrendtables.jsp)
