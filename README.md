@@ -71,7 +71,7 @@ Awesome public datasets that we have found in the course of our work.
 * [FHA Single Family Portfolio Snapshot](https://www.hud.gov/program_offices/housing/rmra/oe/rpts/sfsnap/sfsnap)
 * [FreddieMac Single Family Loan-Level Dataset](https://www.freddiemac.com/research/datasets/sf-loanlevel-dataset)
 * [PropertyRadar](https://www.propertyradar.com/?utm_term=propertyradar&utm_campaign=propertyradar&utm_source=google&utm_medium=cpc&hsa_acc=9668912131&hsa_cam=174266923&hsa_grp=11112780643&hsa_ad=698833242852&hsa_src=g&hsa_tgt=kwd-324375214968&hsa_kw=propertyradar&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiAoae5BhCNARIsADVLzZeHM3zMf9O2bb8bPVoOMADkBhDxoZ-pZyLci3YFpRNAsPOd6oG8ZvEaAshZEALw_wcB)
-* [* [United States Census Bureau - American Community Survey (ACS)]]
+* [United States Census Bureau - American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs/data.html)
 
 
 ## Employment
