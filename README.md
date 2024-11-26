@@ -15,6 +15,9 @@ Awesome public datasets that we have found in the course of our work.
 * [Smithsonian Institution National Museum of Natural History - Global Volcanism Program](https://volcano.si.edu/)
 * [United States Geological Survey (USGS) - Earthquake Hazards Program](https://earthquake.usgs.gov/earthquakes/search/)
 * [NOAA Historical Weather](https://www.weather.gov/documentation/services-web-api)
+* [OpenWeatherMap](https://openweathermap.org/)
+* [Weatherbit](https://www.weatherbit.io/)
+* [Open-Mateo](https://github.com/open-meteo/open-meteo)
 
 
 ## Finance
