@@ -14,7 +14,7 @@ Awesome public datasets that we have found in the course of our work.
 * [WorldClim](https://www.worldclim.org/data/index.html)
 * [Smithsonian Institution National Museum of Natural History - Global Volcanism Program](https://volcano.si.edu/)
 * [United States Geological Survey (USGS) - Earthquake Hazards Program](https://earthquake.usgs.gov/earthquakes/search/)
-* [NOAA Historical Weather] (https://www.weather.gov/documentation/services-web-api)
+* [NOAA Historical Weather](https://www.weather.gov/documentation/services-web-api)
 
 
 ## Finance
